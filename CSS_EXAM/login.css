@@ -1,0 +1,118 @@
+ 
+    #img{
+        width: 50%;
+        height: 760px;
+        background-image: linear-gradient(to bottom, #051937, #3d2c55, #763d6a, #ae5171, #dd6f6f);
+        float: left;
+        
+     }
+    
+      
+    .form {
+        margin: 150px ;
+        margin-right: 98px;
+        float:right ;
+      }
+    
+    #email{
+        padding-bottom:10px ;
+        padding-left: 300px;
+        margin-bottom: 20px;
+      }
+  
+    #password{
+         padding-bottom:10px ;
+         padding-left: 300px;
+         margin-bottom: 30px;
+    
+      }
+
+    #pwd{
+        font-weight: bold;
+
+         }
+    #em{
+        font-weight: bold;
+        }
+
+    button {
+         background-color: rgb(255, 77, 0);
+         color: white;
+         border: none;
+         padding: 10px 216px;
+         border-radius: 2px;
+         font-size: 16px;
+         margin-top: 10px;
+            }
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+    
+              #img{
+                  width: 0%;
+                  height: 0px;
+                  
+                  
+              }
+                .form {
+                  padding-top: 10px;
+                  margin-right: 30px;
+                  float:right ;
+              }
+              #email{
+                  padding-bottom:10px ;
+                  padding-left: 200px;
+                  margin-bottom: 20px;
+                }
+                
+                #password{
+                  padding-bottom:10px ;
+                  padding-left: 200px;
+                  margin-bottom: 30px;
+                }
+          
+                #button {
+                  background-color: rgb(255, 77, 0);
+                  color: white;
+                  border: none;
+                  padding: 10px 164px;
+                  border-radius: 2px;
+                  font-size: 16px;
+                  margin-top: 10px;
+                }  
+              
+               
+              
+              
+                          }  
+
+    
+    
+                
+
+
+
+
+
+
+
+#pwd{
+        font-weight: bold;
+        }
+
+#em{
+        font-weight: bold;
+      }
+  
+#heading{
+    color: rgb(255, 77, 0);
+    font-family: Arial, Helvetica, sans-serif;
+     }
+  
+body{
+    margin: 0px;
+}  
+

@@ -1,0 +1,18 @@
+a {
+    padding: 10px 20px;
+    background-color: #ff0008;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    
+  }
+  
+  a:hover {
+    opacity: 0.6;
+  }
+
+div{
+  padding-top: 100px;
+  margin-left: 45%;
+}
+  
